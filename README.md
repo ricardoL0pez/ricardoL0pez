@@ -71,7 +71,7 @@
 
 <p align="justify">Desarrollador Full Stack y Diseñador Gráfico con más de 10 años de experiencia en la realización de piezas gráficas para medios impresos y digitales.</p>
 
-<p align="justify">He participado en procesos creativos e investigativos, como coordinador de métodos etnográficos, director de arte y diseñador gráfico, comprendiendo la necesidad de la multidisciplinariedad y trabajo en equipo.
+<p align="justify">He participado en procesos creativos e investigativos, como coordinador de métodos etnográficos, director de arte y diseñador gráfico.
 </p>
 <p align="justify">Mi experiencia como alpinista e instructor de escalada en roca, han desarrollado en mi habilidades como la resolución de problemas, comunicación efectiva, planificación y trabajo en equipo, competencias que tienen una gran relevancia y aplicabilidad en el entorno laboral.
 </p>
@@ -81,8 +81,7 @@
 <a href="https://www.behance.net/nitidoart" target="blank"><img align="center" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/behance.svg" alt="https://www.behance.net/nitidoart"  width="40" /></a>
 </p>
 
-<h4>Project</h4>
-- 👨‍💻 <a href="https://proyecto-final-front-ashy.vercel.app" target="blank">Care With Love</a>
+<h4>Projects</h4>
 
  <table align="center">
         <tr>
@@ -90,16 +89,13 @@
                 <div class="flip-card">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <img src="./assets/app-cwl.png" alt="Imagen 1"
+                            <img src="./assets/app-pokemon.png" alt="Imagen 1"
                                 style="width:100%; height:100%;">
                         </div>
                         <div class="flip-card-back">
                             <div class="flip-card-back-container">
                                 <h3 align="center">Pokemon</h3>
-                                <p>Single Page Application que facilita la conexión entre cuidadores de adultos mayores
-                                    y las familias que buscan este servicio. La plataforma ofrece un proceso de
-                                    contratación intuitivo, en donde los cuidadores podrán ofrecer una amplia gama de
-                                    servicios personalizados a su experiencia.</p>
+                                <p>Single Page Application realiza solicitudes a una API atraves de un servidor y renderiza la información de los diferentes personajes de Pokemon en tarjetas.</p>
                                 <p>Tecnologías implementadas</p>
                                 <ul>
                                     <li>Lenguajes de Programación: JavaScript</li>
@@ -213,3 +209,4 @@
 <br>
 
 <div align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/josericardq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/josericardq" /></a></div>
+
