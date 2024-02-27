@@ -1,8 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ricardo López</h1>
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        .flip-card {
+            perspective: 1000px;
+            width: 400px;
+            height: 211px;
+            position: relative;
+        }
+
+        .flip-card-inner {
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+            cursor: pointer;
+        }
+
+        .flip-card:hover .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+
+        .flip-card-front,
+        .flip-card-back {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            backface-visibility: hidden;
+        }
+
+        .flip-card-front {
+            background-color: #bbb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .flip-card-back {
+            background-color: #f5f5f5;
+            color: black;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: flex-start;
+            text-align: left;
+            transform: rotateY(180deg);
+            overflow-y: auto;
+            padding: 10px;
+            box-sizing: border-box;
+            max-height: 100%;/
+        }
+
+        .flip-card-back-container {
+            margin: 10px;
+        }
+    </style>
+
+  <h1 align="center">Hi 👋, I'm Ricardo López</h1>
 <h3 align="center">Jr. Front-end Web Developer | Senior Graphic Designer
 </h3>
 
 <p align="justify">Desarrollador Full Stack y Diseñador Gráfico con más de 10 años de experiencia en la realización de piezas gráficas para medios impresos y digitales.</p>
+
 <p align="justify">He participado en procesos creativos e investigativos, como coordinador de métodos etnográficos, director de arte y diseñador gráfico, comprendiendo la necesidad de la multidisciplinariedad y trabajo en equipo.
 </p>
 <p align="justify">Mi experiencia como alpinista e instructor de escalada en roca, han desarrollado en mi habilidades como la resolución de problemas, comunicación efectiva, planificación y trabajo en equipo, competencias que tienen una gran relevancia y aplicabilidad en el entorno laboral.
@@ -16,7 +84,68 @@
 <h4>Project</h4>
 - 👨‍💻 <a href="https://proyecto-final-front-ashy.vercel.app" target="blank">Care With Love</a>
 
-
+ <table align="center">
+        <tr>
+            <td>
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./assets/app-cwl.png" alt="Imagen 1"
+                                style="width:100%; height:100%;">
+                        </div>
+                        <div class="flip-card-back">
+                            <div class="flip-card-back-container">
+                                <h3 align="center">Pokemon</h3>
+                                <p>Single Page Application que facilita la conexión entre cuidadores de adultos mayores
+                                    y las familias que buscan este servicio. La plataforma ofrece un proceso de
+                                    contratación intuitivo, en donde los cuidadores podrán ofrecer una amplia gama de
+                                    servicios personalizados a su experiencia.</p>
+                                <p>Tecnologías implementadas</p>
+                                <ul>
+                                    <li>Lenguajes de Programación: JavaScript</li>
+                                    <li>Herramientas de Frameworks: React.js, Express.js</li>
+                                    <li>Base de Datos: PostgreSQL</li>
+                                    <li>Otras tecnologías: Vite, Node.js,Redux, Axios</li>
+                                </ul>
+                                <p>PFunciones: Front-end y Back-end developer/p>
+                                <p>Proyecto individual</p>
+                                <a href="#">Deploy del proyecto</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./assets/app-cwl.png" alt="Imagen 2"
+                                style="width:100%; height:100%;">
+                        </div>
+                        <div class="flip-card-back">
+                            <div class="flip-card-back-container">
+                                <h3 align="center">Care With love</h3>
+                                <p>Single Page Application que facilita la conexión entre cuidadores de adultos mayores
+                                    y las familias que buscan este servicio. La plataforma ofrece un proceso de
+                                    contratación intuitivo, en donde los cuidadores podrán ofrecer una amplia gama de
+                                    servicios personalizados a su experiencia.</p>
+                                <p>Tecnologías implementadas</p>
+                                <ul>
+                                    <li>Lenguajes de Programación: JavaScript</li>
+                                    <li>Herramientas de Frameworks: React.js, Express.js</li>
+                                    <li>Base de Datos: PostgreSQL</li>
+                                    <li>Otras tecnologías: Vite, Node.js, SASS, Redux, Axios</li>
+                                </ul>
+                                <p>PFunciones: Front-end developer/p>
+                                <p>Proyecto realizado con un equipo de 8 Integrantes</p>
+                                <a align="center"href="https://proyecto-final-front-ashy.vercel.app/">Deploy del proyecto</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
 
 
 
@@ -84,4 +213,3 @@
 <br>
 
 <div align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/josericardq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/josericardq" /></a></div>
-
