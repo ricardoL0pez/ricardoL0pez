@@ -1,4 +1,5 @@
-<h1 align="center">Hola, soy Ricardo López</h1>
+<div align="center"><img  src="./assets/ricardo-lopez.gif" width="600" /></div>
+
 
 <h3 align="center" style="color: #007bff;">Jr. Front-end Web Developer | Senior Graphic Designer
 </h3>
