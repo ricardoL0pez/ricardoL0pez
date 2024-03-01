@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <span color="#007bff">Ricardo López</span></h1>
+<h1 align="center">Hola, soy Ricardo López</h1>
 
 <h3 align="center" style="color: #007bff;">Jr. Front-end Web Developer | Senior Graphic Designer
 </h3>
@@ -14,74 +14,58 @@
 <a href="https://www.linkedin.com/in/josericardolopezsierra/" target="blank"><img align="center" src="./assets/linkedin.svg" alt="https://www.linkedin.com/in/josericardolopezsierra/"  width="40" /></a>
 <a href="https://www.behance.net/nitidoart" target="blank"><img align="center" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/behance.svg" alt="https://www.behance.net/nitidoart"  width="40" /></a>
 </p>
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-<h4>Projects</h4>
 
-<table style="width: 100%; border-collapse: collapse;">
-    <tr style="display: flex; justify-content: center; align-items: center;">
-        <td style="padding: 20px; border: 1px solid #ccc; text-align: center;">
-            <div id="flip-card" style="width: 400px; height: 211px; overflow: hidden; overflow-y: auto;">
-                <div id="flip-card-front" style="background-color: #bbb; display: flex; justify-content: center; align-items: center;">
-                    <img src="./assets/app-pokemon.png" style="width: 100%; height: 100%;">
-                </div>
-                <div id="flip-card-back" style="background-color: #f5f5f5; color: black; display: flex; flex-direction: column; text-align: left; padding: 10px;">
-                    <div id="flip-card-back-container" style="margin: 10px;">
-                        <h3 align="center">Pokemon</h3>
-                        <p style="text-align: justify;">Single Page Application realiza solicitudes a una API atraves de un servidor y renderiza la información de los diferentes personajes de Pokemon en tarjetas.</p>
-                        <p>Tecnologías implementadas</p>
-                        <ul>
-                            <li>Lenguajes de Programación: JavaScript</li>
-                            <li>Herramientas de Frameworks: React.js, Express.js</li>
-                            <li>Base de Datos: PostgreSQL</li>
-                            <li>Otras tecnologías: Vite, Node.js, Redux, Axios</li>
-                        </ul>
-                        <p>Funciones: Front-end y Back-end developer</p>
-                        <p>Proyecto individual</p>
-                        <p align="center"><a href="#">Despliegue del proyecto</a></p>
-                    </div>
-                </div>
+[!IMPORTANT] <h4>Projects</h4>
+
+<table>
+    <tr>
+        <td align="center">
+            <img  width="300" src="./assets/app-cwl.png">
+            <div>
+                <h3 align="center">Care With love</h3>
+                <p align="justify">Single Page Application que facilita la conexión entre cuidadores de adultos mayores y las familias que buscan este servicio. La plataforma ofrece un proceso de contratación intuitivo, en donde los cuidadores podrán ofrecer una amplia gama de servicios personalizados a su experiencia.</p>
+                <p align="left">Tecnologías implementadas</p>
+                <ul align="left">
+                    <li>Lenguajes de Programación: JavaScript</li>
+                    <li>Herramientas de Frameworks: React.js, Express.js</li>
+                    <li>Base de Datos: PostgreSQL</li>
+                    <li>Otras tecnologías: Vite, Node.js, SASS, Redux, Axios</li>
+                </ul>
+                <p align="left">Funciones: Front-end developer</p>
+                <p align="left">Proyecto realizado con un equipo de 8 Integrantes</p>
+                <ul align="left">
+                    <li><a href="https://github.com/pablo0261">Pablo Besler</a></li>
+                    <li><a href="https://github.com/AFunesAbdala">Alejo Funes Abdala</a></li>
+                    <li><a href="https://github.com/leandroh1002">Leandro Herrera</a></li>
+                    <li><a href="https://github.com/tiago1820">Tiago de Oliveira</a></li>
+                    <li><a href="https://github.com/LinxInformatica">Diego Lepore</a></li>
+                    <li><a href="https://github.com/EmmanuelMarne">Emmanuel Martinez</a></li>
+                </ul>
+                <p align="center"><a href="https://proyecto-final-front-ashy.vercel.app/">Despliegue del proyecto</a></p>
             </div>
         </td>
-        <td style="padding: 20px; border: 1px solid #ccc; text-align: center;">
-            <div id="flip-card" style="width: 400px; height: 211px; overflow: hidden; overflow-y: auto;">
-                <div id="flip-card-front" style="background-color: #bbb; display: flex; justify-content: center; align-items: center;">
-                    <img src="./assets/app-cwl.png" style="width: 100%; height: 100%;">
-                </div>
-                <div id="flip-card-back" style="background-color: #f5f5f5; color: black; display: flex; flex-direction: column; text-align: left; padding: 10px;">
-                    <div id="flip-card-back-container" style="margin: 10px;">
-                        <h3 align="center">Care With love</h3>
-                        <p style="text-align: justify;">Single Page Application que facilita la conexión entre cuidadores de adultos mayores y las familias que buscan este servicio. La plataforma ofrece un proceso de contratación intuitivo, en donde los cuidadores podrán ofrecer una amplia gama de servicios personalizados a su experiencia.</p>
-                        <p>Tecnologías implementadas</p>
-                        <ul>
-                            <li>Lenguajes de Programación: JavaScript</li>
-                                    <li>Herramientas de Frameworks: React.js, Express.js</li>
-                                    <li>Base de Datos: PostgreSQL</li>
-                                    <li>Otras tecnologías: Vite, Node.js, SASS, Redux, Axios</li>
-                        </ul>
-                        <p>Funciones: Front-end developer</p>
-                        <p>Proyecto realizado con un equipo de 8 Integrantes</p>
-                        <ul>
-                        <li><a href="https://github.com/pablo0261">Pablo Besler</a></li>
-                        <li><a href="https://github.com/AFunesAbdala">Alejo Funes Abdala</a></li>
-                        <li><a href="https://github.com/leandroh1002">Leandro Herrera</a></li>
-                        <li> <a href="https://github.com/tiago1820">Tiago de Oliveira</a></li>
-                        <li><a href="https://github.com/LinxInformatica">Diego Lepore</a></li>
-                        <li><a href="https://github.com/EmmanuelMarne">Emmanuel Martinez</a></li>
-                        <br>
-                        <p align="center"><a align="center"href="https://proyecto-final-front-ashy.vercel.app/">Despliegue del proyecto</a></p>
-                    </div>
-                </div>
+        <td align="center">
+            <img width="400" src="./assets/app-pokemon.png">
+            <div>
+                <h3 align="center">Pokemon</h3>
+                <p align="justify">Single Page Application realiza solicitudes a una API a través de un servidor y renderiza la información de los diferentes personajes de Pokemon en tarjetas.</p>
+                <p align="left">Tecnologías implementadas</p>
+                <ul align="left">
+                    <li>Lenguajes de Programación: JavaScript</li>
+                    <li>Herramientas de Frameworks: React.js, Express.js</li>
+                    <li>Base de Datos: PostgreSQL</li>
+                    <li>Otras tecnologías: Vite, Node.js, Redux, Axios</li>
+                </ul>
+                <p align="left">Funciones: Front-end y Back-end developer</p>
+                <p align="left">Proyecto individual</p>
+                <p align="center"><a href="#">Despliegue del proyecto</a></p>
             </div>
         </td>
     </tr>
 </table>
-  
-
-
 
 <br>
-<div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 100%;">
+<div align="center">
 <table>
         <tr>
             <td align="center"><img src="./assets/react.png" width="50" alt="React" /></td>
@@ -103,9 +87,6 @@
         </tr>
     </table>
 </div>
-
-
-
 
 
 <br>
