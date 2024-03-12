@@ -25,6 +25,11 @@
             <div>
                 <h3 align="center">Care With love</h3>
                 <p align="justify">Single Page Application que facilita la conexión entre cuidadores de adultos mayores y las familias que buscan este servicio. La plataforma ofrece un proceso de contratación intuitivo, en donde los cuidadores podrán ofrecer una amplia gama de servicios personalizados a su experiencia.</p>
+                <ul align="left">
+                    <li>User view</li>
+                    <li>Dashboard de Administración</li>
+                    <li>API</li>
+                </ul>                
                 <p align="left">Tecnologías implementadas</p>
                 <ul align="left">
                     <li>Lenguajes de Programación: JavaScript</li>
