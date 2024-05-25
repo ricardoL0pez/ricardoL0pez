@@ -38,7 +38,7 @@
                     <li>Otras tecnologías: Vite, Node.js, SASS, Redux, Axios</li>
                 </ul>
                 <p align="left">Funciones: Front-end developer</p>
-                <p align="left">Proyecto realizado con un equipo de 8 Integrantes</p>
+                <!-- <p align="left">Proyecto realizado con un equipo de 8 Integrantes</p>
                 <ul align="left">
                     <li><a href="https://github.com/pablo0261">Pablo Besler</a></li>
                     <li><a href="https://github.com/AFunesAbdala">Alejo Funes Abdala</a></li>
@@ -47,7 +47,7 @@
                     <li><a href="https://github.com/LinxInformatica">Diego Lepore</a></li>
                     <li><a href="https://github.com/EmmanuelMarne">Emmanuel Martinez</a></li>
                 </ul>
-                <p align="center"><a href="https://proyecto-final-front-ashy.vercel.app/">Despliegue del proyecto</a></p>
+                <p align="center"><a href="https://proyecto-final-front-ashy.vercel.app/">Despliegue del proyecto</a></p> -->
             </div>
         </td>
         <td align="center">
