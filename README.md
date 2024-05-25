@@ -12,8 +12,8 @@
 </p>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/josericardolopezsierra/" target="blank"><img align="center" src="./assets/linkedin.svg" alt="https://www.linkedin.com/in/josericardolopezsierra/"  width="40" /></a>
-<a href="https://www.behance.net/nitidoart" target="blank"><img align="center" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/behance.svg" alt="https://www.behance.net/nitidoart"  width="40" /></a>
+<a href="#" target="blank"><img align="center" src="./assets/linkedin.svg" alt=""  width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/behance.svg" alt="https://www.behance.net/nitidoart"  width="40" /></a>
 </p>
 
 [!IMPORTANT] <h4>Projects</h4>
