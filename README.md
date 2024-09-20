@@ -98,6 +98,7 @@
 <br>
 
 <div align="center"><a href="https://www.buymeacoffee.com/josericardq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/josericardq" /></a></div>
-
+<br>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ricardoL0pez&color=blue&style=flat-square&label=Profile+views&base=500&abbreviated=true" alt="ricardoL0pez" /> </p>
 
